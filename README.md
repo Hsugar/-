@@ -1,5 +1,7 @@
 # -
-jquery等
+jquery一些插件
+
+例如分页的用法：
 <div class="pagination" id="j-goods-paging"></div> 
  /**
  * [paging 分页]
